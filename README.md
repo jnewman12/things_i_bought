@@ -1,3 +1,3 @@
-== Things bought
+# Things bought
 
-= quick scaffold
+quick scaffold
